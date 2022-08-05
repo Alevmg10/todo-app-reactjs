@@ -1,1 +1,1 @@
-ToDo App with React Js & TailwindCss
+ToDo App with React Js, TailwindCss & Firebase
